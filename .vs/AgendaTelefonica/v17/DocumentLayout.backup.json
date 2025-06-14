@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmContactoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
+              "RelativeDocumentMoniker": "FrmContactoDetalle.cs",
+              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
+              "RelativeToolTip": "FrmContactoDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:10:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmContactoDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
+              "RelativeDocumentMoniker": "FrmContactoDetalle.cs",
+              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmContactoDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:56:58.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmContactos.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
+              "RelativeDocumentMoniker": "FrmContactos.cs",
+              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
+              "RelativeToolTip": "FrmContactos.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:44:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmContactos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
+              "RelativeDocumentMoniker": "FrmContactos.cs",
+              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmContactos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:12:41.181Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
