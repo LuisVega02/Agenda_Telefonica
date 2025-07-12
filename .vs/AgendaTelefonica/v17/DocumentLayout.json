@@ -1,22 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\",
+  "WorkspaceRootPath": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luise\\desktop\\ing. software\\agenda_telefonica\\frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\frmimportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmimportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmexportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmexportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmexportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmexportarcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmexportarcsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmexportarcsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|c:\\users\\luis vega\\desktop\\agenda_telefonica\\agenda_telefonica\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB446FF7-AD25-4B47-B64F-1A874E92E01B}|AgendaTelefonica.csproj|solutionrelative:frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmContactoDetalle.cs",
-              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
-              "RelativeDocumentMoniker": "FrmContactoDetalle.cs",
-              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
-              "RelativeToolTip": "FrmContactoDetalle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T18:10:31.092Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmContactoDetalle.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs",
-              "RelativeDocumentMoniker": "FrmContactoDetalle.cs",
-              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactoDetalle.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmContactoDetalle.cs [Dise\u00F1o]",
+              "DocumentIndex": 6,
+              "Title": "FrmExportarCSV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.cs",
+              "RelativeDocumentMoniker": "FrmExportarCSV.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmExportarCSV.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T17:56:58.564Z",
+              "WhenOpened": "2025-07-12T21:45:11.685Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "FrmContactos.cs",
-              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactos.cs",
               "RelativeDocumentMoniker": "FrmContactos.cs",
-              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactos.cs",
               "RelativeToolTip": "FrmContactos.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJ0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T17:44:23.902Z",
+              "WhenOpened": "2025-07-12T21:43:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmExportarCSV.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.cs",
+              "RelativeDocumentMoniker": "FrmExportarCSV.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.cs",
+              "RelativeToolTip": "FrmExportarCSV.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:43:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmExportarCSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.Designer.cs",
+              "RelativeDocumentMoniker": "FrmExportarCSV.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.Designer.cs",
+              "RelativeToolTip": "FrmExportarCSV.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:42:25.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmContactos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactos.cs",
+              "RelativeDocumentMoniker": "FrmContactos.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmContactos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:37:08.967Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmContactoDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactoDetalle.cs",
+              "RelativeDocumentMoniker": "FrmContactoDetalle.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactoDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmContactoDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:37:06.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.cs",
+              "RelativeToolTip": "FrmCategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:42:13.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmContactos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs",
-              "RelativeDocumentMoniker": "FrmContactos.cs",
-              "ToolTip": "C:\\Users\\luise\\Desktop\\Ing. Software\\Agenda_Telefonica\\FrmContactos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmContactos.cs [Dise\u00F1o]",
+              "Title": "FrmCategorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCategorias.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.Designer.cs",
+              "RelativeToolTip": "FrmCategorias.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T17:12:41.181Z",
+              "WhenOpened": "2025-07-12T21:41:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmCategorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:36:57.389Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:29:41.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmImportarCSV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmImportarCSV.cs",
+              "RelativeDocumentMoniker": "FrmImportarCSV.cs",
+              "ToolTip": "C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmImportarCSV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmImportarCSV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:17:55.779Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

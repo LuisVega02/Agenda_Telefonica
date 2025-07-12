@@ -1,16 +1,1 @@
-{
-  "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
-  "EnableSpellChecker": true,
-  "ColumnOrder": [
-    "name",
-    "type",
-    "neutral-value",
-    "neutral-comment"
-  ],
-  "VisibleColumnKeys": [
-    "name",
-    "neutral-value"
-  ]
-}
+{"ShowEmptyProjects":false,"CustomColumnOrderings":{"name":0,"file-path":1,"file-name":2,"neutral-value":3,"neutral-comment":4,"type":5},"ShowValidationErrors":true,"SelectedResourceGroupsByProject":{"C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\AgendaTelefonica.csproj":["C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmImportarCSV.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmExportarCSV.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmCategorias.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactos.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmLogin.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\FrmContactoDetalle.resx","C:\\Users\\Luis Vega\\Desktop\\Agenda_Telefonica\\Agenda_Telefonica\\Properties\\Resources.resx"]},"VisibleColumnKeys":["name","neutral-value","neutral-comment"]}
